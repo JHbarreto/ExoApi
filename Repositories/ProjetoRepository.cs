@@ -20,6 +20,7 @@ namespace Exo.WebApi.Repositories
         }
 
         //Complemento do crud feito na atividade anterior
+
         public void Cadastrar(Projeto projeto)
         {
             _context.Projetos.Add(projeto);

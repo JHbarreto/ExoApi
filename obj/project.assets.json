@@ -8567,11 +8567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\BH_bo\\OneDrive\\Área de Trabalho\\Dev Back-End\\material de estudos\\desenvolvimento de apis\\04c\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\BH_bo\\OneDrive\\Área de Trabalho\\Dev Back-End\\material de estudos\\desenvolvimento de apis\\04c\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "c:\\Users\\BH_bo\\OneDrive\\Área de Trabalho\\Dev Back-End\\material de estudos\\desenvolvimento de apis\\04c\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\BH_bo\\OneDrive\\Área de Trabalho\\Dev Back-End\\material de estudos\\desenvolvimento de apis\\04c\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\BH_bo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\BH_bo\\OneDrive\\Área de Trabalho\\Dev Back-End\\material de estudos\\desenvolvimento de apis\\04c\\ExoApi\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\BH_bo\\OneDrive\\Área de Trabalho\\Dev Back-End\\material de estudos\\desenvolvimento de apis\\04c\\ExoApi\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BH_bo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8644,7 +8644,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
